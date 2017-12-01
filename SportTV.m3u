@@ -1,18 +1,358 @@
 #EXTM3U
-#EXTINF:-1,Sky sport HD2
-https://aliez-stream.gcdn.co/hls/streama57535/index.m3u8
-#EXTINF:-1,Sport TV1
-https://aliez-stream.gcdn.co/hls/streama57502/index.m3u8
-#EXTINF:-1,BT Sport
-https://aliez-stream.gcdn.co/hls/streama57507/index.m3u8
-#EXTINF:-1,FS2
-https://aliez-stream.gcdn.co/hls/streama57503/index.m3u8
-#EXTINF:-1,NRPA
-https://aliez-stream.gcdn.co/hls/streama57548/index.m3u8
-#EXTINF:-1,2DFHD
-https://aliez-stream.gcdn.co/hls/streama57504/index.m3u8
-
-
-
-
-
+#EXTINF:-1,UK-Sky_Sports-News
+http://configuration.tn:8000/live/T1278/T1278/2223.ts
+#EXTINF:-1,UK-Sports(main events)
+http://configuration.tn:8000/live/T1278/T1278/874.ts
+#EXTINF:-1,UK-Sports(main events) B
+http://configuration.tn:8000/live/T1278/T1278/2971.ts
+#EXTINF:-1,UK-Sports(cricket)
+http://configuration.tn:8000/live/T1278/T1278/421.ts
+#EXTINF:-1,UK-UK-Sports(cricket) B
+http://configuration.tn:8000/live/T1278/T1278/2972.ts
+#EXTINF:-1,UK-Sports(Action)
+http://configuration.tn:8000/live/T1278/T1278/420.ts
+#EXTINF:-1,UK-Sports(Action) B
+http://configuration.tn:8000/live/T1278/T1278/2973.ts
+#EXTINF:-1,UK-Sports(golf)
+http://configuration.tn:8000/live/T1278/T1278/419.ts
+#EXTINF:-1,UK-UK-Sports(golf) b
+http://configuration.tn:8000/live/T1278/T1278/2974.ts
+#EXTINF:-1,UK-Sport(premier league)
+http://configuration.tn:8000/live/T1278/T1278/418.ts
+#EXTINF:-1,UK-Sport(premier league) B
+http://configuration.tn:8000/live/T1278/T1278/2975.ts
+#EXTINF:-1,UK-Sports_Football
+http://configuration.tn:8000/live/T1278/T1278/2228.ts
+#EXTINF:-1,UK-sky_sport_F1
+http://configuration.tn:8000/live/T1278/T1278/2014.ts
+#EXTINF:-1,UK-Premier Sports
+http://configuration.tn:8000/live/T1278/T1278/2153.ts
+#EXTINF:-1,UK-Racing
+http://configuration.tn:8000/live/T1278/T1278/2016.ts
+#EXTINF:-1,UK-Box_Nation
+http://configuration.tn:8000/live/T1278/T1278/1595.ts
+#EXTINF:-1,UK-Sky_Box_Office(when match)
+http://configuration.tn:8000/live/T1278/T1278/2275.ts
+#EXTINF:-1,UK:Setanta
+http://configuration.tn:8000/live/T1278/T1278/1504.ts
+#EXTINF:-1,UK-BTsport-europe
+http://configuration.tn:8000/live/T1278/T1278/1468.ts
+#EXTINF:-1,UK-BT_Sport1
+http://configuration.tn:8000/live/T1278/T1278/1308.ts
+#EXTINF:-1,UK-BT_Sport2
+http://configuration.tn:8000/live/T1278/T1278/1309.ts
+#EXTINF:-1,UK-BT Sport 3
+http://configuration.tn:8000/live/T1278/T1278/2093.ts
+#EXTINF:-1,UK-BT-Espn
+http://configuration.tn:8000/live/T1278/T1278/1594.ts
+#EXTINF:-1,UK-Eurosport1_HD
+http://configuration.tn:8000/live/T1278/T1278/3830.ts
+#EXTINF:-1,UK-Eurosport2_HD
+http://configuration.tn:8000/live/T1278/T1278/3829.ts
+#EXTINF:-1,UK-Liverpool_FC
+http://configuration.tn:8000/live/T1278/T1278/2209.ts
+#EXTINF:-1,UK-AtThe-Races
+http://configuration.tn:8000/live/T1278/T1278/396.ts
+#EXTINF:-1,UK-Motors_TV
+http://configuration.tn:8000/live/T1278/T1278/2216.ts
+#EXTINF:-1,spt-Sport_tonight-UK
+http://configuration.tn:8000/live/T1278/T1278/1263.ts
+#EXTINF:-1,spt-Bs Sport
+http://configuration.tn:8000/live/T1278/T1278/657.ts
+#EXTINF:-1,US-Fox SPORT1
+http://configuration.tn:8000/live/T1278/T1278/2638.ts
+#EXTINF:-1,US-TSN Sport 1
+http://configuration.tn:8000/live/T1278/T1278/1257.ts
+#EXTINF:-1,US-TSN 2
+http://configuration.tn:8000/live/T1278/T1278/2642.ts
+#EXTINF:-1,US-TSN 3
+http://configuration.tn:8000/live/T1278/T1278/2641.ts
+#EXTINF:-1,US-TSN 4
+http://configuration.tn:8000/live/T1278/T1278/2640.ts
+#EXTINF:-1,US-TSN 5
+http://configuration.tn:8000/live/T1278/T1278/2639.ts
+#EXTINF:-1,US-WWE
+http://configuration.tn:8000/live/T1278/T1278/2730.ts
+#EXTINF:-1,USA:NFL_now
+http://configuration.tn:8000/live/T1278/T1278/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+http://configuration.tn:8000/live/T1278/T1278/2116.ts
+#EXTINF:-1,US-Sports Net
+http://configuration.tn:8000/live/T1278/T1278/1625.ts
+#EXTINF:-1,USA-NBA
+http://configuration.tn:8000/live/T1278/T1278/2385.ts
+#EXTINF:-1,IT:Rai_Sport1
+http://configuration.tn:8000/live/T1278/T1278/1768.ts
+#EXTINF:-1,IT:Rai_Sport2
+http://configuration.tn:8000/live/T1278/T1278/1769.ts
+#EXTINF:-1,IT-Sky_F1_HD
+http://configuration.tn:8000/live/T1278/T1278/1981.ts
+#EXTINF:-1,IT-Fox Sports HD
+http://configuration.tn:8000/live/T1278/T1278/3096.ts
+#EXTINF:-1,IT-SKY_SPORT1_HD
+http://configuration.tn:8000/live/T1278/T1278/1422.ts
+#EXTINF:-1,IT-SKY_SPORT2_HD
+http://configuration.tn:8000/live/T1278/T1278/1421.ts
+#EXTINF:-1,IT-Sky Sport 3 HD
+http://configuration.tn:8000/live/T1278/T1278/3117.ts
+#EXTINF:-1,IT:Sky_Sport24
+http://configuration.tn:8000/live/T1278/T1278/1770.ts
+#EXTINF:-1,IT-Sport MotorGP_HD
+http://configuration.tn:8000/live/T1278/T1278/1773.ts
+#EXTINF:-1,IT:Super_tennis_HD
+http://configuration.tn:8000/live/T1278/T1278/1990.ts
+#EXTINF:-1,IT-Sky Sport plus HD
+http://configuration.tn:8000/live/T1278/T1278/3118.ts
+#EXTINF:-1,IT-Premium Sport HD
+http://configuration.tn:8000/live/T1278/T1278/3108.ts
+#EXTINF:-1,IT-Premium SPORT2
+http://configuration.tn:8000/live/T1278/T1278/3107.ts
+#EXTINF:-1,IT-Sky_Supercalcio_HD
+http://configuration.tn:8000/live/T1278/T1278/3120.ts
+#EXTINF:-1,IT-Premium Calcio 1
+http://configuration.tn:8000/live/T1278/T1278/3099.ts
+#EXTINF:-1,IT-Premium Calcio 2
+http://configuration.tn:8000/live/T1278/T1278/3100.ts
+#EXTINF:-1,IT-Premium Calcio 3
+http://configuration.tn:8000/live/T1278/T1278/3101.ts
+#EXTINF:-1,IT-Premium Calcio 4
+http://configuration.tn:8000/live/T1278/T1278/3102.ts
+#EXTINF:-1,IT-Premium Calcio 5
+http://configuration.tn:8000/live/T1278/T1278/3103.ts
+#EXTINF:-1,IT-Premium Calcio 6
+http://configuration.tn:8000/live/T1278/T1278/3104.ts
+#EXTINF:-1,IT-Premium Calcio 7
+http://configuration.tn:8000/live/T1278/T1278/3105.ts
+#EXTINF:-1,IT-Sky Calcio 1 HD
+http://configuration.tn:8000/live/T1278/T1278/3109.ts
+#EXTINF:-1,IT-Sky Calcio 2 HD
+http://configuration.tn:8000/live/T1278/T1278/3110.ts
+#EXTINF:-1,IT-Sky Calcio 3 HD
+http://configuration.tn:8000/live/T1278/T1278/3111.ts
+#EXTINF:-1,IT-Sky Calcio 4 HD
+http://configuration.tn:8000/live/T1278/T1278/3112.ts
+#EXTINF:-1,IT-Sky Calcio 5 HD
+http://configuration.tn:8000/live/T1278/T1278/3113.ts
+#EXTINF:-1,IT-Sky Calcio 6 HD
+http://configuration.tn:8000/live/T1278/T1278/3114.ts
+#EXTINF:-1,IT-Sky Calcio 7 HD
+http://configuration.tn:8000/live/T1278/T1278/3115.ts
+#EXTINF:-1,IT-Sky Calcio 8 HD
+http://configuration.tn:8000/live/T1278/T1278/3116.ts
+#EXTINF:-1,Scn-C_More_Live1
+http://configuration.tn:8000/live/T1278/T1278/2481.ts
+#EXTINF:-1,Scn-C More Live 2 HD
+http://configuration.tn:8000/live/T1278/T1278/3952.ts
+#EXTINF:-1,Scn-C More Live 3 HD
+http://configuration.tn:8000/live/T1278/T1278/3951.ts
+#EXTINF:-1,Scn-C More Live 4 HD
+http://configuration.tn:8000/live/T1278/T1278/3950.ts
+#EXTINF:-1,Scn-Viasat Sport Premium
+http://configuration.tn:8000/live/T1278/T1278/3700.ts
+#EXTINF:-1,Scn-C-More Sport
+http://configuration.tn:8000/live/T1278/T1278/2452.ts
+#EXTINF:-1,Scn-C-More Fotboll
+http://configuration.tn:8000/live/T1278/T1278/2454.ts
+#EXTINF:-1,Scn-Viasat Football
+http://configuration.tn:8000/live/T1278/T1278/2415.ts
+#EXTINF:-1,Scn-TV2_sport
+http://configuration.tn:8000/live/T1278/T1278/2526.ts
+#EXTINF:-1,Scn-TV3_SPORT1
+http://configuration.tn:8000/live/T1278/T1278/3701.ts
+#EXTINF:-1,NL:Eurosport 1 HD
+http://configuration.tn:8000/live/T1278/T1278/3821.ts
+#EXTINF:-1,NL:Eurosport 2 HD
+http://configuration.tn:8000/live/T1278/T1278/3820.ts
+#EXTINF:-1,NL: Fox Sport 1
+http://configuration.tn:8000/live/T1278/T1278/1522.ts
+#EXTINF:-1,NL: Fox Sport 2
+http://configuration.tn:8000/live/T1278/T1278/1521.ts
+#EXTINF:-1,NL: Fox Sport 3
+http://configuration.tn:8000/live/T1278/T1278/1520.ts
+#EXTINF:-1,NL-Fox Sports 4
+http://configuration.tn:8000/live/T1278/T1278/2514.ts
+#EXTINF:-1,NL-Fox Sports 5
+http://configuration.tn:8000/live/T1278/T1278/2515.ts
+#EXTINF:-1,NL-Fox Sports 6
+http://configuration.tn:8000/live/T1278/T1278/2516.ts
+#EXTINF:-1,NL:Sport1.Golf
+http://configuration.tn:8000/live/T1278/T1278/1505.ts
+#EXTINF:-1,NL-Ziggo Sport Voetbal
+http://configuration.tn:8000/live/T1278/T1278/2513.ts
+#EXTINF:-1,NL-Ziggo Sport Select HD
+http://configuration.tn:8000/live/T1278/T1278/3923.ts
+#EXTINF:-1,NL-Ziggo Sport
+http://configuration.tn:8000/live/T1278/T1278/3925.ts
+#EXTINF:-1,NL-Ziggo Sport eXtra 1
+http://configuration.tn:8000/live/T1278/T1278/3928.ts
+#EXTINF:-1,NL-Ziggo Sport eXtra 2
+http://configuration.tn:8000/live/T1278/T1278/3927.ts
+#EXTINF:-1,NL-Ziggo Sport Golf
+http://configuration.tn:8000/live/T1278/T1278/3926.ts
+#EXTINF:-1,NL-Ziggo Sport Racing
+http://configuration.tn:8000/live/T1278/T1278/3924.ts
+#EXTINF:-1,DE-Europe_Sport1
+http://configuration.tn:8000/live/T1278/T1278/3247.ts
+#EXTINF:-1,DE-Europe_Sport2
+http://configuration.tn:8000/live/T1278/T1278/3781.ts
+#EXTINF:-1,DE-Sky_Sport_News
+http://configuration.tn:8000/live/T1278/T1278/3223.ts
+#EXTINF:-1,DE-Sky_Sport1_HD
+http://configuration.tn:8000/live/T1278/T1278/189.ts
+#EXTINF:-1,DE-Sky_Sport_2
+http://configuration.tn:8000/live/T1278/T1278/190.ts
+#EXTINF:-1,DE-Sky-Sport3
+http://configuration.tn:8000/live/T1278/T1278/3889.ts
+#EXTINF:-1,DE-Sky-Sport6
+http://configuration.tn:8000/live/T1278/T1278/3864.ts
+#EXTINF:-1,DE-Sky-Sport7
+http://configuration.tn:8000/live/T1278/T1278/3863.ts
+#EXTINF:-1,DE-Sky-Sport8
+http://configuration.tn:8000/live/T1278/T1278/3862.ts
+#EXTINF:-1,DE-Sky-Sport9
+http://configuration.tn:8000/live/T1278/T1278/3861.ts
+#EXTINF:-1,DE-Sky-Sport10
+http://configuration.tn:8000/live/T1278/T1278/3860.ts
+#EXTINF:-1,DE-Sky_Bundesliga1
+http://configuration.tn:8000/live/T1278/T1278/183.ts
+#EXTINF:-1,DE-Sky_BL2(Matchday)
+http://configuration.tn:8000/live/T1278/T1278/3515.ts
+#EXTINF:-1,DE-Sky_BL3(Matchday)
+http://configuration.tn:8000/live/T1278/T1278/3516.ts
+#EXTINF:-1,DE-Sky_BL4(Matchday)
+http://configuration.tn:8000/live/T1278/T1278/3517.ts
+#EXTINF:-1,DE-SKY-BL7
+http://configuration.tn:8000/live/T1278/T1278/3858.ts
+#EXTINF:-1,DE-SKY-BL8
+http://configuration.tn:8000/live/T1278/T1278/3857.ts
+#EXTINF:-1,DE-SKY-BL9
+http://configuration.tn:8000/live/T1278/T1278/3856.ts
+#EXTINF:-1,DE-SKY-BL10
+http://configuration.tn:8000/live/T1278/T1278/3855.ts
+#EXTINF:-1,TR-NTVSPOR
+http://configuration.tn:8000/live/T1278/T1278/3378.ts
+#EXTINF:-1,TR-A_SPOR
+http://configuration.tn:8000/live/T1278/T1278/3394.ts
+#EXTINF:-1,TRT_SPORTS
+http://configuration.tn:8000/live/T1278/T1278/3347.ts
+#EXTINF:-1,Tr-Eurosport1
+http://configuration.tn:8000/live/T1278/T1278/3566.ts
+#EXTINF:-1,Tr-Eurosport2
+http://configuration.tn:8000/live/T1278/T1278/3567.ts
+#EXTINF:-1,Arena Sport 1
+http://configuration.tn:8000/live/T1278/T1278/1275.ts
+#EXTINF:-1,Arena Sport 2
+http://configuration.tn:8000/live/T1278/T1278/2053.ts
+#EXTINF:-1,Arena Sport 3
+http://configuration.tn:8000/live/T1278/T1278/2052.ts
+#EXTINF:-1,Arena Sport 4
+http://configuration.tn:8000/live/T1278/T1278/2051.ts
+#EXTINF:-1,Supersport_1 HD
+http://configuration.tn:8000/live/T1278/T1278/2120.ts
+#EXTINF:-1,SuperSport2_HD
+http://configuration.tn:8000/live/T1278/T1278/1244.ts
+#EXTINF:-1,SuperSport_3HD
+http://configuration.tn:8000/live/T1278/T1278/1264.ts
+#EXTINF:-1,spt-Supersport4
+http://configuration.tn:8000/live/T1278/T1278/1386.ts
+#EXTINF:-1,AL-Super_Sport_5_HD
+http://configuration.tn:8000/live/T1278/T1278/4092.ts
+#EXTINF:-1,Al_Tring_Sport_News
+http://configuration.tn:8000/live/T1278/T1278/4090.ts
+#EXTINF:-1,AL_Tring_Sport_1_HD
+http://configuration.tn:8000/live/T1278/T1278/4089.ts
+#EXTINF:-1,Sport_Klub1_HD
+http://configuration.tn:8000/live/T1278/T1278/2127.ts
+#EXTINF:-1,Sport_Klub2_HD
+http://configuration.tn:8000/live/T1278/T1278/1260.ts
+#EXTINF:-1,Sport_Klub3_HD
+http://configuration.tn:8000/live/T1278/T1278/1262.ts
+#EXTINF:-1,Es-LA LIGA HD
+http://configuration.tn:8000/live/T1278/T1278/2567.ts
+#EXTINF:-1,Es-C FUTBOL HD
+http://configuration.tn:8000/live/T1278/T1278/2570.ts
+#EXTINF:-1,Es-C ESTRENOS HD
+http://configuration.tn:8000/live/T1278/T1278/2571.ts
+#EXTINF:-1,Es-C DEPORTES1 HD
+http://configuration.tn:8000/live/T1278/T1278/2572.ts
+#EXTINF:-1,Es-BEIN SPORTS
+http://configuration.tn:8000/live/T1278/T1278/2579.ts
+#EXTINF:-1,ES-REAL MADRID TV
+http://configuration.tn:8000/live/T1278/T1278/2589.ts
+#EXTINF:-1,ES-MOVISTAR_FORMULA_1_HD
+http://configuration.tn:8000/live/T1278/T1278/2598.ts
+#EXTINF:-1,Sport TV 1
+http://configuration.tn:8000/live/T1278/T1278/1245.ts
+#EXTINF:-1,Sport TV 2
+http://configuration.tn:8000/live/T1278/T1278/1237.ts
+#EXTINF:-1,PT-SPORT_TV_3
+http://configuration.tn:8000/live/T1278/T1278/796.ts
+#EXTINF:-1,PT-SPORT_TV_4
+http://configuration.tn:8000/live/T1278/T1278/3205.ts
+#EXTINF:-1,PT-SPORT_TV5
+http://configuration.tn:8000/live/T1278/T1278/3206.ts
+#EXTINF:-1,ES: EUROSPORT
+http://configuration.tn:8000/live/T1278/T1278/3611.ts
+#EXTINF:-1,ES: EUROSPORT 2
+http://configuration.tn:8000/live/T1278/T1278/3610.ts
+#EXTINF:-1,AR-KTV_Sports_TV
+http://configuration.tn:8000/live/T1278/T1278/1638.ts
+#EXTINF:-1,arb-Nile sport
+http://configuration.tn:8000/live/T1278/T1278/1455.ts
+#EXTINF:-1,AR-DUBAI-SPORT1
+http://configuration.tn:8000/live/T1278/T1278/127.ts
+#EXTINF:-1,saudi-sport
+http://configuration.tn:8000/live/T1278/T1278/3712.ts
+#EXTINF:-1,AD-SPORT1
+http://configuration.tn:8000/live/T1278/T1278/103.ts
+#EXTINF:-1,AD-Sport2
+http://configuration.tn:8000/live/T1278/T1278/104.ts
+#EXTINF:-1,MBC-PRO-SP1
+http://configuration.tn:8000/live/T1278/T1278/168.ts
+#EXTINF:-1,MBC-PRO-SP2
+http://configuration.tn:8000/live/T1278/T1278/169.ts
+#EXTINF:-1,MBC-PRO-SP3
+http://configuration.tn:8000/live/T1278/T1278/170.ts
+#EXTINF:-1,AR|BEIN 1 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8172.ts
+#EXTINF:-1,AR|BEIN 2 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8171.ts
+#EXTINF:-1,AR|BEIN 3 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8170.ts
+#EXTINF:-1,AR|BEIN 4 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8169.ts
+#EXTINF:-1,AR|BEIN 5 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8168.ts
+#EXTINF:-1,AR|BEIN 6 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8167.ts
+#EXTINF:-1,AR|BEIN 7 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8166.ts
+#EXTINF:-1,AR|BEIN 8 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8165.ts
+#EXTINF:-1,AR|BEIN 9 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8164.ts
+#EXTINF:-1,AR|BEIN 10 HD
+http://prod.proserver300.com:8080/live/Teo/Teo/8163.ts
+#EXTINF:-1,BEIN SPORT 1 FR
+http://prod.proserver300.com:8080/live/Teo/Teo/8177.ts
+#EXTINF:-1,BEIN SPORT 2 FR
+http://prod.proserver300.com:8080/live/Teo/Teo/8176.ts
+#EXTINF:-1,BEIN SPORT 3 FR
+http://prod.proserver300.com:8080/live/Teo/Teo/8175.ts
+#EXTINF:-1,ARENA SPORT 1 HR
+http://prod.proserver300.com:8080/live/Teo/Teo/8157.ts
+#EXTINF:-1,ARENA SPORT 2 HR
+http://prod.proserver300.com:8080/live/Teo/Teo/8156.ts
+#EXTINF:-1,ARENA SPORT 3 HR
+http://prod.proserver300.com:8080/live/Teo/Teo/8155.ts
+#EXTINF:-1,ARENA SPORT 4 HR
+http://prod.proserver300.com:8080/live/Teo/Teo/8154.ts
+#EXTINF:-1,FR Eurosport 1
+http://prod.proserver300.com:8080/live/Teo/Teo/8174.ts
+#EXTINF:-1,FR Eurosport 2
+http://prod.proserver300.com:8080/live/Teo/Teo/8173.ts
+#EXTINF:-1,DE: Sky Bundesliga 1
+http://164.132.105.184:8000/Bestfreeiptv.com/6Tyuwdzpm1/189.ch
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://164.132.105.184:8000/Bestfreeiptv.com/6Tyuwdzpm1/188.ch
+#EXTINF:-1,SRB: Arena Sport 1
